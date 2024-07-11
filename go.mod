@@ -1,4 +1,4 @@
-module modbus
+module github.com/injoyai/modbus
 
 go 1.15
 
